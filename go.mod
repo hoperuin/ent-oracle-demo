@@ -7,6 +7,4 @@ require (
 	github.com/godror/godror v0.24.6
 )
 
-replace (
-	entgo.io/ent => C:\Users\wangshifei\GolandProjects\ent
-)
+replace entgo.io/ent => github.com/hoperuin/ent v0.8.1-0.20210511024225-de95f8a4b044
